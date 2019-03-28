@@ -1,6 +1,6 @@
 # Improved cd
 ## Description
-this repo contains an emproved version of the bash command `cd`.
+this repo contains an improved version of the bash command `cd`.
 ## Install Instructions
 1. copy the code of the file `improved_cd.sh`
 2. launch terminal and open `~/.bashrc`
