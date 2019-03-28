@@ -1,8 +1,8 @@
-# Emproved cd
+# Improved cd
 ## Description
 this repo contains an emproved version of the bash command `cd`.
 ## Install Instructions
-1. copy the code of the file `emproved_cd.sh`
+1. copy the code of the file `improved_cd.sh`
 2. launch terminal and open `~/.bashrc`
 ```
 sudo nano ~/.bashrc
